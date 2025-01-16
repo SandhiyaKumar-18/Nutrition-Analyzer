@@ -31,3 +31,16 @@ like (Sugar, Fibre, Protein, Calories, etc.)
 
 ![Logo](ArchitectureDiagram.png)
 
+
+## PROJECT FLOW
+● The user interacts with the UI (User Interface) and give the image as input.
+● Then the input image is then pass to our flask application,
+● And finally with the help of the model which we build we will classify the
+result and showcase it on the UI.
+● To accomplish this, we have to complete all the activities and tasks listed
+below
+      ● Data Collection.
+      ● Data Preprocessing.
+      ● Model Building
+      ● Application Buildin
+
