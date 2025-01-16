@@ -39,8 +39,8 @@ like (Sugar, Fibre, Protein, Calories, etc.)
 result and showcase it on the UI.
 ● To accomplish this, we have to complete all the activities and tasks listed
 below
-      ● Data Collection.
-      ● Data Preprocessing.
-      ● Model Building
-      ● Application Buildin
+🗂️ Data Collection: Gather fruit images and nutritional data from reliable sources.
+🧹 Data Preprocessing: Clean, resize, and augment images for model training.
+🤖 Model Building: Train a machine learning model for fruit classification.
+🖥️ Application Building: Develop a Flask-based web app to integrate the model and UI.
 
