@@ -3,7 +3,7 @@
 
 Nutrition Analyzer is a user-friendly tool designed to help users find the nutritional value of various fruits. This project aims to promote healthier dietary choices by providing detailed nutritional information about fruits in an easy-to-access format.🍎🍌🥝
 
-[📺 Demo on YouTube]([(https://www.youtube.com/watch?v=rr25J_hu1L8)])
+[📺 Demo on YouTube](https://www.youtube.com/watch?v=rr25J_hu1L8)
 
 
 ![Logo](banner.png)
