@@ -15,3 +15,5 @@ Features
 
 🏋️‍♀️ Fitness-Friendly: Tailored for those tracking their fitness goals.
 
+![Logo](ArchitectureDiagram.png)
+
