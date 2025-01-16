@@ -5,7 +5,13 @@ Nutrition Analyzer is a user-friendly tool designed to help users find the nutri
 
 ![Logo](banner.png)
 
+Features
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+🌟 Search for Fruits: Get detailed nutritional information for a wide variety of fruits.
 
+📊 Nutritional Breakdown: View calories, carbohydrates, proteins, fats, vitamins, and minerals.
+
+🔍 Easy-to-Use Interface: Upload the image of the fruit.
+
+🏋️‍♀️ Fitness-Friendly: Tailored for those tracking their fitness goals.
 
