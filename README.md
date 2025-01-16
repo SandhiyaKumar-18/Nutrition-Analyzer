@@ -47,4 +47,12 @@ below
    * 🤖 Model Building: Train a machine learning model for fruit classification.
 
    *  🖥️ Application Building: Develop a Flask-based web app to integrate the model and UI.
+  
+ ## FUTURE SCOPE
+The future scope of this project is very broad. Few of them are:
+  - The model could be trained using a vast database in order to increase the accuracy of results.
+  - The Backend framework of the web application can be improved so that the uploaded images can be handled appropriately.
+  - In addition to the nutrition analysis, the application can also be designed to provide recipes that can be prepared using the nutrient-rich foods
+  - A database can also be implemented for the system so that users can save their data and relook into it later.
+  - The Web application can be further developed and launched as an Android App so that anyone anywhere with or without internet connection can access it and get benefited from its use cases
 
